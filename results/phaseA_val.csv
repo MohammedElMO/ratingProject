@@ -1,0 +1,5 @@
+model,macro_f1,accuracy,mae
+A1_majority,0.1084,0.3717,1.1324
+A2_length,0.1606,0.183,1.7729
+A2_length,0.1606,0.183,1.7729
+A3_tfidf_word+char_LR,0.4233,0.4681,0.7063
