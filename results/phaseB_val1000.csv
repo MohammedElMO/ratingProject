@@ -1,0 +1,8 @@
+model,macro_f1,accuracy,mae
+B_en_stars_argmax,0.1981,0.279,1.463
+B_en_stars_expected,0.1275,0.21,1.207
+B_en_sentiment_argmax,0.1702,0.256,1.029
+B_en_sentiment_expected,0.1678,0.266,1.006
+B_ar_stars_argmax,0.0948,0.1,2.36
+B_ar_stars_expected,0.1193,0.162,1.527
+A3_tfidf_LR (same 1000),0.4287,0.465,0.707
